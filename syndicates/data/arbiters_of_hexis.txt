@@ -1,0 +1,102 @@
+{{SynOfferBox|ArbitersofHexisSigil.png|Sigils|Arbiter Of Hexis Sigil|1,000|Rank 1: Principled}}
+{{SynOfferBox|CorruptedLancerSpecter.png|Specter|5x Corrupted Lancer Specter|2,500|Rank 1: Principled}}
+{{SynOfferBox|GuidingPathSigil.png|Sigils|Guiding Path Sigil|2,500|Rank 1: Principled}}
+{{SynOfferBox|BendingWillSigil.png|Sigils|Bending Will Sigil|5,000|Rank 1: Principled}}
+{{SynOfferBox|DisciplineSigil.png|Sigils|Discipline Sigil|7,500|Rank 1: Principled}}
+{{SynOfferBox|VoidRelicPack.png|Void Relic|Syndicate Relic Pack (3 x Random Void Relics)|20,000|Rank 2: Authentic}}
+{{SynOfferBox|WillSigil.png|Sigils|Will Sigil|10,000|Rank 2: Authentic}}
+{{SynOfferBox|ChoiceSigil.png|Sigils|Choice Sigil|15,000|Rank 2: Authentic}}
+{{SynOfferBox|Barrel.png|Dual_Decurion|Decurion Barrel|20,000|Rank 2: Authentic}}
+{{SynOfferBox|Barrel.png|Phaedra|Phaedra Barrel|20,000|Rank 2: Authentic}}
+{{SynOfferBox|Barrel.png|Corvas|Corvas Barrel|20,000|Rank 2: Authentic}}
+{{SynOfferBox|GraspSigil.png|Sigils|Grasp Sigil|12,000|Rank 3: Lawful}}
+{{SynOfferBox|PotentialSigil.png|Sigils|Potential Sigil|17,000|Rank 3: Lawful}}
+{{SynOfferBox|Barrel.png|Cyngas|Cyngas Barrel|20,000|Rank 3: Lawful}}
+{{SynOfferBox|GenericComponentLatch.png|Centaur|Centaur Aegis|20,000|Rank 3: Lawful}}
+{{SynOfferBox|LargeTeamEnergyPack.png|Squad Energy Restore (Large)|Squad Energy Restore (Large) Blueprint|25,000|Rank 3: Lawful|blueprint=t}}
+{{SynOfferBox|GildedTruthMod.png|Gilded Truth|Gilded Truth (Burston Prime)|25,000|Rank 4: Crusader}}
+{{SynOfferBox|BladeofTruthMod.png|Blade of Truth|Blade of Truth (Jaw Sword)|25,000|Rank 4: Crusader}}
+{{SynOfferBox|AvengingTruthMod.png|Avenging Truth|Avenging Truth (Silva & Aegis)|25,000|Rank 4: Crusader}}
+{{SynOfferBox|StingingTruthMod.png|Stinging Truth|Stinging Truth (Viper)|25,000|Rank 4: Crusader}}
+{{SynOfferBox|SuccessionSigil.png|Sigils|Succession Sigil|15,000|Rank 4: Crusader}}
+{{SynOfferBox|SurpassingSigil.png|Sigils|Surpassing Sigil|20,000|Rank 4: Crusader}}
+{{SynOfferBox|MedallionSculpture.png|Orbiter#Decorations|Medallion Sculpture|50,000|Rank 4: Crusader}}
+{{SynOfferBox|SeekingShurikenMod.png|Seeking Shuriken|Seeking Shuriken (Ash)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|SmokeShadowMod.png|Smoke Shadow|Smoke Shadow (Ash)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Teleport Rush (Ash)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|RisingStormMod.png|Rising Storm|Rising Storm (Ash)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ElusiveRetributionMod.png|Elusive Retribution|Elusive Retribution (Baruuk)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|EndlessLullabyMod.png|Endless Lullaby|Endless Lullaby (Baruuk)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ReactiveStormMod.png|Reactive Storm|Reactive Storm (Baruuk)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|DualityMod.png|Duality|Duality (Equinox)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|Calm&FrenzyMod.png|Calm & Frenzy|Calm & Frenzy (Equinox)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|PeacefulProvocationMod.png|Peaceful Provocation|Peaceful Provocation (Equinox)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|EnergyTransferMod.png|Energy Transfer|Energy Transfer (Equinox)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|SurgingDashMod.png|Surging Dash|Surging Dash (Excalibur)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|RadiantFinishMod.png|Radiant Finish|Radiant Finish (Excalibur)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|FuriousJavelinMod.png|Furious Javelin|Furious Javelin (Excalibur)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ChromaticBladeMod.png|Chromatic Blade|Chromatic Blade (Excalibur)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|Warrior'sRestMod.png|Warrior's Rest|Warrior's Rest (Excalibur Umbra)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ShatteredStormMod.png|Shattered Storm|Shattered Storm (Gara)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|MendingSplintersMod.png|Mending Splinters|Mending Splinters (Gara)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|SpectrosiphonMod.png|Spectrosiphon|Spectrosiphon (Gara)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|MachCrashMod.png|Mach Crash|Mach Crash (Gauss)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ThermalTransferMod.png|Thermal Transfer|Thermal Transfer (Gauss)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ConductiveSphereMod.png|Conductive Sphere|Conductive Sphere (Gyre)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|CoilRechargeMod.png|Coil Recharge|Coil Recharge (Gyre)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|CathodeCurrentMod.png|Cathode Current|Cathode Current (Gyre)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ReverseRotorswellMod.png|Reverse Rotorswell|Reverse Rotorswell (Gyre)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TribunalMod.png|Tribunal|Tribunal (Harrow)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|WardingThuribleMod.png|Warding Thurible|Warding Thurible (Harrow)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|LastingCovenantMod.png|Lasting Covenant|Lasting Covenant (Harrow)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|Desiccation'sCurseMod.png|Desiccation's Curse|Desiccation's Curse (Inaros)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ElementalSandstormMod.png|Elemental Sandstorm|Elemental Sandstorm (Inaros)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Armor (Inaros)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|Jade'sJudgmentMod.png|Jade's Judgment|Jade's Judgment (Jade)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|Omikuji'sFortuneMod.png|Omikuji's Fortune|Omikuji's Fortune (Koumei)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|RiftHavenMod.png|Rift Haven|Rift Haven (Limbo)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|RiftTorrentMod.png|Rift Torrent|Rift Torrent (Limbo)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|CataclysmicContinuumMod.png|Cataclysmic Continuum|Cataclysmic Continuum (Limbo)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|SaviorDecoyMod.png|Savior Decoy|Savior Decoy (Loki)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|DamageDecoyMod.png|Damage Decoy|Damage Decoy (Loki)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|HushedInvisibilityMod.png|Hushed Invisibility|Hushed Invisibility (Loki)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|SafeguardSwitchMod.png|Safeguard Switch|Safeguard Switch (Loki)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|IrradiatingDisarmMod.png|Irradiating Disarm|Irradiating Disarm (Loki)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|HallofMalevolenceMod.png|Hall of Malevolence|Hall of Malevolence (Mirage)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ExplosiveLegerdemainMod.png|Explosive Legerdemain|Explosive Legerdemain (Mirage)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TotalEclipseMod.png|Total Eclipse|Total Eclipse (Mirage)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|MindFreakMod.png|Mind Freak|Mind Freak (Nyx)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|PacifyingBoltsMod.png|Pacifying Bolts|Pacifying Bolts (Nyx)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ChaosSphereMod.png|Chaos Sphere|Chaos Sphere (Nyx)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|AssimilateMod.png|Assimilate|Assimilate (Nyx)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|RepairDispensaryMod.png|Repair Dispensary|Repair Dispensary (Protea)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TemporalArtilleryMod.png|Temporal Artillery|Temporal Artillery (Protea)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TemporalErosionMod.png|Temporal Erosion|Temporal Erosion (Protea)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|AxiosJavelineersMod.png|Axios Javelineers|Axios Javelineers (Styanax)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TharrosLethalityMod.png|Tharros Lethality|Tharros Lethality (Styanax)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|IntrepidStandMod.png|Intrepid Stand|Intrepid Stand (Styanax)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ShockTrooperMod.png|Shock Trooper|Shock Trooper (Volt)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|ShockingSpeedMod.png|Shocking Speed|Shocking Speed (Volt)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TransistorShieldMod.png|Transistor Shield|Transistor Shield (Volt)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|CapacitanceMod.png|Capacitance|Capacitance (Volt)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|CelestialStompMod.png|Celestial Stomp|Celestial Stomp (Wukong)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|EnvelopingCloudMod.png|Enveloping Cloud|Enveloping Cloud (Wukong)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|PrimalRageMod.png|Primal Rage|Primal Rage (Wukong)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TruthSigil.png|Sigils|Truth Sigil|30,000|Rank 5: Maxim}}
+{{SynOfferBox|TelosAkbolto.png|Telos Akbolto|Telos Akbolto|100,000|Rank 5: Maxim}}
+{{SynOfferBox|TelosBoltor.png|Telos Boltor|Telos Boltor|125,000|Rank 5: Maxim}}
+{{SynOfferBox|TelosBoltace.png|Telos Boltace|Telos Boltace|125,000|Rank 5: Maxim}}
+{{SynOfferBox|TelosSyandana.png|Telos Syandana|Telos Syandana|100,000|Rank 5: Maxim}}
+{{SynOfferBox|Arbiter'sTribunalScene.png|Captura|Arbiter's Tribunal Scene|100,000|Rank 5: Maxim}}
+{{SynOfferBox|LuaNurseryScene.png|Captura|Lua Nursery Scene|100,000|Rank 5: Maxim}}
+{{SynOfferBox|LuaContainmentScene.png|Captura|Lua Containment Scene|100,000|Rank 5: Maxim}}
+{{SynOfferBox|ArbitersofHexisStencil.png|Orbiter#Stencils|Arbiters of Hexis Stencil|125,000|Rank 5: Maxim}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: Maxim|blueprint=t}}
+{{SynOfferBox|ArbitersofHexisCombatEmote.png|Emotes|Arbiters Combat Emote|70,000|Rank 5: Maxim}}
+{{SynOfferBox|ArbitersofHexisEngineeringEmote.png|Emotes|Arbiters Engineering Emote|70,000|Rank 5: Maxim}}
+{{SynOfferBox|ArbitersofHexisGunneryEmote.png|Emotes|Arbiters Gunnery Emote|70,000|Rank 5: Maxim}}
+{{SynOfferBox|ArbitersofHexisPilotingEmote.png|Emotes|Arbiters Piloting Emote|70,000|Rank 5: Maxim}}
+{{SynOfferBox|ArbitersofHexisEnduranceEmote.png|Emotes|Arbiters Endurance Emote|70,000|Rank 5: Maxim}}
+{{SynOfferBox|SyndicateArmourPackAH.png|Armor (Cosmetic)|Hexis Armor Set|125,000|Rank 5: Maxim}}
+{{SynOfferBox|ZanukaArenaSimulacrum.png|Simulacrum|Zanuka Arena Simulacrum|100,000|Rank 5: Maxim}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: Maxim}}

@@ -1,0 +1,101 @@
+{{SynOfferBox|PerrinSequenceSigil.png|Sigils|Perrin Sequence Sigil|1,000|Rank 1: Associate}}
+{{SynOfferBox|MoaSpecter.png|Specter|5x Moa Specter|2,500|Rank 1: Associate}}
+{{SynOfferBox|ProgressSigil.png|Sigils|Progress Sigil|2,500|Rank 1: Associate}}
+{{SynOfferBox|OpportunitySigil.png|Sigils|Opportunity Sigil|5,000|Rank 1: Associate}}
+{{SynOfferBox|CalculatingSigil.png|Sigils|Calculating Sigil|7,500|Rank 1: Associate}}
+{{SynOfferBox|VoidRelicPack.png|Void Relic|Syndicate Relic Pack (3 X Random Void Relics)|20,000|Rank 2: Senior Associate}}
+{{SynOfferBox|SynergySigil.png|Sigils|Synergy Sigil|10,000|Rank 2: Senior Associate}}
+{{SynOfferBox|DirectivesSigil.png|Sigils|Directives Sigil|15,000|Rank 2: Senior Associate}}
+{{SynOfferBox|Handle.png|Onorix|Onorix Handle|20,000|Rank 2: Senior Associate}}
+{{SynOfferBox|Receiver.png|Phaedra|Phaedra Receiver|20,000|Rank 2: Senior Associate}}
+{{SynOfferBox|StrategySigil.png|Sigils|Strategy Sigil|12,000|Rank 3: Executive}}
+{{SynOfferBox|TessellationsSigil.png|Sigils|Tessellations Sigil|17,000|Rank 3: Executive}}
+{{SynOfferBox|Blade.png|Centaur|Centaur Blade|20,000|Rank 3: Executive}}
+{{SynOfferBox|Stock.png|Cyngas|Cyngas Stock|25,000|Rank 3: Executive}}
+{{SynOfferBox|LargeTeamEnergyPack.png|Squad Energy Restore (Large)|Squad Energy Restore (Large) Blueprint|25,000|Rank 3: Executive|blueprint=t}}
+{{SynOfferBox|ToxicSequenceMod.png|Toxic Sequence|Toxic Sequence (Acrid)|25,000|Rank 4: Senior Executive}}
+{{SynOfferBox|DeadlySequenceMod.png|Deadly Sequence|Deadly Sequence (Grinlok)|25,000|Rank 4: Senior Executive}}
+{{SynOfferBox|VoltageSequenceMod.png|Voltage Sequence|Voltage Sequence (Lanka)|25,000|Rank 4: Senior Executive}}
+{{SynOfferBox|SequenceBurnMod.png|Sequence Burn|Sequence Burn (Spectra)|25,000|Rank 4: Senior Executive}}
+{{SynOfferBox|OptimumSigil.png|Sigils|Optimum Sigil|15,000|Rank 4: Senior Executive}}
+{{SynOfferBox|CapitalSigil.png|Sigils|Capital Sigil|20,000|Rank 4: Senior Executive}}
+{{SynOfferBox|QuittanceSculpture.png|Orbiter#Decorations|Quittance Sculpture|50,000|Rank 4: Senior Executive}}
+{{SynOfferBox|SonicFractureMod.png|Sonic Fracture|Sonic Fracture (Banshee)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ResonanceMod.png|Resonance|Resonance (Banshee)|25,000|Rank 5: Partner}}
+{{SynOfferBox|SavageSilenceMod.png|Savage Silence|Savage Silence (Banshee)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ResonatingQuakeMod.png|Resonating Quake|Resonating Quake (Banshee)|25,000|Rank 5: Partner}}
+{{SynOfferBox|RazorMortarMod.png|Razor Mortar|Razor Mortar (Caliban)|25,000|Rank 5: Partner}}
+{{SynOfferBox|AfterburnMod.png|Afterburn|Afterburn (Chroma)|25,000|Rank 5: Partner}}
+{{SynOfferBox|EverlastingWardMod.png|Everlasting Ward|Everlasting Ward (Chroma)|25,000|Rank 5: Partner}}
+{{SynOfferBox|VexingRetaliationMod.png|Vexing Retaliation|Vexing Retaliation (Chroma)|25,000|Rank 5: Partner}}
+{{SynOfferBox|GuardianArmorMod.png|Guardian Armor|Guardian Armor (Chroma)|25,000|Rank 5: Partner}}
+{{SynOfferBox|GuidedEffigyMod.png|Guided Effigy|Guided Effigy (Chroma)|25,000|Rank 5: Partner}}
+{{SynOfferBox|SpectralSpiritMod.png|Spectral Spirit|Spectral Spirit (Dagath)|25,000|Rank 5: Partner}}
+{{SynOfferBox|MachCrashMod.png|Mach Crash|Mach Crash (Gauss)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ThermalTransferMod.png|Thermal Transfer|Thermal Transfer (Gauss)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ConductiveSphereMod.png|Conductive Sphere|Conductive Sphere (Gyre)|25,000|Rank 5: Partner}}
+{{SynOfferBox|CoilRechargeMod.png|Coil Recharge|Coil Recharge (Gyre)|25,000|Rank 5: Partner}}
+{{SynOfferBox|CathodeCurrentMod.png|Cathode Current|Cathode Current (Gyre)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ReverseRotorswellMod.png|Reverse Rotorswell|Reverse Rotorswell (Gyre)|25,000|Rank 5: Partner}}
+{{SynOfferBox|BalefireSurgeMod.png|Balefire Surge|Balefire Surge (Hildryn)|25,000|Rank 5: Partner}}
+{{SynOfferBox|BlazingPillageMod.png|Blazing Pillage|Blazing Pillage (Hildryn)|25,000|Rank 5: Partner}}
+{{SynOfferBox|AegisGaleMod.png|Aegis Gale|Aegis Gale (Hildryn)|25,000|Rank 5: Partner}}
+{{SynOfferBox|Desiccation'sCurseMod.png|Desiccation's Curse|Desiccation's Curse (Inaros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ElementalSandstormMod.png|Elemental Sandstorm|Elemental Sandstorm (Inaros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Armor (Inaros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|EmpoweredQuiverMod.png|Empowered Quiver|Empowered Quiver (Ivara)|25,000|Rank 5: Partner}}
+{{SynOfferBox|PiercingNavigatorMod.png|Piercing Navigator|Piercing Navigator (Ivara)|25,000|Rank 5: Partner}}
+{{SynOfferBox|InfiltrateMod.png|Infiltrate|Infiltrate (Ivara)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ConcentratedArrowMod.png|Concentrated Arrow|Concentrated Arrow (Ivara)|25,000|Rank 5: Partner}}
+{{SynOfferBox|GreedyPullMod.png|Greedy Pull|Greedy Pull (Mag)|25,000|Rank 5: Partner}}
+{{SynOfferBox|MagnetizedDischargeMod.png|Magnetized Discharge|Magnetized Discharge (Mag)|25,000|Rank 5: Partner}}
+{{SynOfferBox|CounterPulseMod.png|Counter Pulse|Counter Pulse (Mag)|25,000|Rank 5: Partner}}
+{{SynOfferBox|FracturingCrushMod.png|Fracturing Crush|Fracturing Crush (Mag)|25,000|Rank 5: Partner}}
+{{SynOfferBox|SoulSurvivorMod.png|Soul Survivor|Soul Survivor (Nekros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|CreepingTerrifyMod.png|Creeping Terrify|Creeping Terrify (Nekros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|DespoilMod.png|Despoil|Despoil (Nekros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ShieldofShadowsMod.png|Shield of Shadows|Shield of Shadows (Nekros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|TeemingVirulenceMod.png|Teeming Virulence|Teeming Virulence (Nidus)|25,000|Rank 5: Partner}}
+{{SynOfferBox|LarvaBurstMod.png|Larva Burst|Larva Burst (Nidus)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ParasiticVitalityMod.png|Parasitic Vitality|Parasitic Vitality (Nidus)|25,000|Rank 5: Partner}}
+{{SynOfferBox|InsatiableMod.png|Insatiable|Insatiable (Nidus)|25,000|Rank 5: Partner}}
+{{SynOfferBox|AbundantMutationMod.png|Abundant Mutation|Abundant Mutation (Nidus)|25,000|Rank 5: Partner}}
+{{SynOfferBox|RepairDispensaryMod.png|Repair Dispensary|Repair Dispensary (Protea)|25,000|Rank 5: Partner}}
+{{SynOfferBox|TemporalArtilleryMod.png|Temporal Artillery|Temporal Artillery (Protea)|25,000|Rank 5: Partner}}
+{{SynOfferBox|TemporalErosionMod.png|Temporal Erosion|Temporal Erosion (Protea)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ThrallPactMod.png|Thrall Pact|Thrall Pact (Revenant)|25,000|Rank 5: Partner}}
+{{SynOfferBox|MesmerShieldMod.png|Mesmer Shield|Mesmer Shield (Revenant)|25,000|Rank 5: Partner}}
+{{SynOfferBox|BlindingReaveMod.png|Blinding Reave|Blinding Reave (Revenant)|25,000|Rank 5: Partner}}
+{{SynOfferBox|IroncladChargeMod.png|Ironclad Charge|Ironclad Charge (Rhino)|25,000|Rank 5: Partner}}
+{{SynOfferBox|IronShrapnelMod.png|Iron Shrapnel|Iron Shrapnel (Rhino)|25,000|Rank 5: Partner}}
+{{SynOfferBox|PiercingRoarMod.png|Piercing Roar|Piercing Roar (Rhino)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ReinforcingStompMod.png|Reinforcing Stomp|Reinforcing Stomp (Rhino)|25,000|Rank 5: Partner}}
+{{SynOfferBox|PoolofLifeMod.png|Pool Of Life|Pool Of Life (Trinity)|25,000|Rank 5: Partner}}
+{{SynOfferBox|VampireLeechMod.png|Vampire Leech|Vampire Leech (Trinity)|25,000|Rank 5: Partner}}
+{{SynOfferBox|AbatingLinkMod.png|Abating Link|Abating Link (Trinity)|25,000|Rank 5: Partner}}
+{{SynOfferBox|Champion'sBlessingMod.png|Champion's Blessing|Champion's Blessing (Trinity)|25,000|Rank 5: Partner}}
+{{SynOfferBox|SwingLineMod.png|Swing Line|Swing Line (Valkyr)|25,000|Rank 5: Partner}}
+{{SynOfferBox|EternalWarMod.png|Eternal War|Eternal War (Valkyr)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ProlongedParalysisMod.png|Prolonged Paralysis|Prolonged Paralysis (Valkyr)|25,000|Rank 5: Partner}}
+{{SynOfferBox|HystericalAssaultMod.png|Hysterical Assault|Hysterical Assault (Valkyr)|25,000|Rank 5: Partner}}
+{{SynOfferBox|EnragedMod.png|Enraged|Enraged (Valkyr)|25,000|Rank 5: Partner}}
+{{SynOfferBox|TeslaBankMod.png|Tesla Bank|Tesla Bank (Vauban)|25,000|Rank 5: Partner}}
+{{SynOfferBox|RepellingBastilleMod.png|Repelling Bastille|Repelling Bastille (Vauban)|25,000|Rank 5: Partner}}
+{{SynOfferBox|PhotonRepeaterMod.png|Photon Repeater|Photon Repeater (Vauban)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ShadowHazeMod.png|Shadow Haze|Shadow Haze (Sevagoth)|25,000|Rank 5: Partner}}
+{{SynOfferBox|DarkPropagationMod.png|Dark Propagation|Dark Propagation (Sevagoth)|25,000|Rank 5: Partner}}
+{{SynOfferBox|ChairmanSigil.png|Sigils|Chairman Sigil|30,000|Rank 5: Partner}}
+{{SynOfferBox|SecuraDualCestra.png|Secura Dual Cestra|Secura Dual Cestra|100,000|Rank 5: Partner}}
+{{SynOfferBox|SecuraPenta.png|Secura Penta|Secura Penta|125,000|Rank 5: Partner}}
+{{SynOfferBox|SecuraLecta.png|Secura Lecta|Secura Lecta|125,000|Rank 5: Partner}}
+{{SynOfferBox|SecuraSyandana.png|Secura Syandana|Secura Syandana|100,000|Rank 5: Partner}}
+{{SynOfferBox|Ergo'sBoardroomScene.png|Captura|Ergo's Boardroom Scene|100,000|Rank 5: Partner}}
+{{SynOfferBox|CorpusGasCityConduitScene.png|Captura|Corpus Gas City Conduit Scene|100,000|Rank 5: Partner}}
+{{SynOfferBox|MyconaColonyScene.png|Captura|Mycona Colony Scene|100,000|Rank 5: Partner}}
+{{SynOfferBox|ThePerrinSequenceStencil.png|Orbiter#Stencils|The Perrin Sequence Stencil|125,000|Rank 5: Partner}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: Partner|blueprint=t}}
+{{SynOfferBox|ThePerrinSequencePilotingEmote.png|Emotes|Perrin Piloting Emote|70,000|Rank 5: Partner}}
+{{SynOfferBox|ThePerrinSequenceEnduranceEmote.png|Emotes|Perrin Endurance Emote|70,000|Rank 5: Partner}}
+{{SynOfferBox|SyndicateArmourPackPS.png|Armor (Cosmetic)|Perrin Armor Set|125,000|Rank 5: Partner}}
+{{SynOfferBox|AmbulasArenaSimulacrum.png|Simulacrum|Ambulas Arena Simulacrum|100,000|Rank 5: Partner}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: Partner}}

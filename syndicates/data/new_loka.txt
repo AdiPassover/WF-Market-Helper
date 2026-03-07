@@ -1,0 +1,104 @@
+{{SynOfferBox|NewLokaSigil.png|Sigils|New Loka Sigil|1,000|Rank 1: Humane}}
+{{SynOfferBox|AncientHealerSpecter.png|Specter|5x Ancient Healer Specter|2,500|Rank 1: Humane}}
+{{SynOfferBox|SacrificeSigil.png|Sigils|Sacrifice Sigil|2,500|Rank 1: Humane}}
+{{SynOfferBox|SeedSigil.png|Sigils|Seed Sigil|5,000|Rank 1: Humane}}
+{{SynOfferBox|RebirthSigil.png|Sigils|Rebirth Sigil|7,500|Rank 1: Humane}}
+{{SynOfferBox|VoidRelicPack.png|Void Relic|Syndicate Relic Pack (3 X Random Void Relics)|20,000|Rank 2: Bountiful}}
+{{SynOfferBox|GrowthSigil.png|Sigils|Growth Sigil|10,000|Rank 2: Bountiful}}
+{{SynOfferBox|ClaritySigil.png|Sigils|Clarity Sigil|15,000|Rank 2: Bountiful}}
+{{SynOfferBox|Blade.png|Onorix|Onorix Blade|20,000|Rank 2: Bountiful}}
+{{SynOfferBox|Stock.png|Phaedra|Phaedra Stock|20,000|Rank 2: Bountiful}}
+{{SynOfferBox|Blade.png|Rathbone|Rathbone Head|20,000|Rank 2: Bountiful}}
+{{SynOfferBox|BloomSigil.png|Sigils|Bloom Sigil|12,000|Rank 3: Benevolent}}
+{{SynOfferBox|PuritySigil.png|Sigils|Purity Sigil|17,000|Rank 3: Benevolent}}
+{{SynOfferBox|Blade.png|Agkuza|Agkuza Blade|20,000|Rank 3: Benevolent}}
+{{SynOfferBox|Handle.png|Centaur|Centaur Handle|20,000|Rank 3: Benevolent}}
+{{SynOfferBox|LargeTeamHealPack.png|Squad_Health_Restore|Squad Health Restore (Large) Blueprint|25,000|Rank 3: Benevolent|blueprint=t}}
+{{SynOfferBox|WindsofPurityMod.png|Winds of Purity|Winds of Purity (Furis)|25,000|Rank 4: Pure}}
+{{SynOfferBox|DisarmingPurityMod.png|Disarming Purity|Disarming Purity (Panthera)|25,000|Rank 4: Pure}}
+{{SynOfferBox|BrightPurityMod.png|Bright Purity|Bright Purity (Skana)|25,000|Rank 4: Pure}}
+{{SynOfferBox|LastingPurityMod.png|Lasting Purity|Lasting Purity (Vulkar)|25,000|Rank 4: Pure}}
+{{SynOfferBox|GaiaSigil.png|Sigils|Gaia Sigil|15,000|Rank 4: Pure}}
+{{SynOfferBox|BountySigil.png|Sigils|Bounty Sigil|20,000|Rank 4: Pure}}
+{{SynOfferBox|SeedSculpture.png|Orbiter#Decorations|Seed Sculpture|50,000|Rank 4: Pure}}
+{{SynOfferBox|ElusiveRetributionMod.png|Elusive Retribution|Elusive Retribution (Baruuk)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|EndlessLullabyMod.png|Endless Lullaby|Endless Lullaby (Baruuk)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ReactiveStormMod.png|Reactive Storm|Reactive Storm (Baruuk)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|DualityMod.png|Duality|Duality (Equinox)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|Calm&FrenzyMod.png|Calm & Frenzy|Calm & Frenzy (Equinox)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PeacefulProvocationMod.png|Peaceful Provocation|Peaceful Provocation (Equinox)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|EnergyTransferMod.png|Energy Transfer|Energy Transfer (Equinox)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ShatteredStormMod.png|Shattered Storm|Shattered Storm (Gara)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|MendingSplintersMod.png|Mending Splinters|Mending Splinters (Gara)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SpectrosiphonMod.png|Spectrosiphon|Spectrosiphon (Gara)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ViralTempestMod.png|Viral Tempest|Viral Tempest (Hydroid)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|TidalImpunityMod.png|Tidal Impunity|Tidal Impunity (Hydroid)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|RousingPlunderMod.png|Rousing Plunder|Rousing Plunder (Hydroid)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PilferingSwarmMod.png|Pilfering Swarm|Pilfering Swarm (Hydroid)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|Omikuji'sFortuneMod.png|Omikuji's Fortune|Omikuji's Fortune (Koumei)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|VolatileRecompenseMod.png|Volatile Recompense|Volatile Recompense (Kullervo)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|WrathofUkkoMod.png|Wrath of Ukko|Wrath of Ukko (Kullervo)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SwiftBiteMod.png|Swift Bite|Swift Bite (Lavos)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ValenceFormationMod.png|Valence Formation|Valence Formation (Lavos)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|LingeringTransmutationMod.png|Lingering Transmutation|Lingering Transmutation (Lavos)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|GreedyPullMod.png|Greedy Pull|Greedy Pull (Mag)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|MagnetizedDischargeMod.png|Magnetized Discharge|Magnetized Discharge (Mag)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|CounterPulseMod.png|Counter Pulse|Counter Pulse (Mag)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|FracturingCrushMod.png|Fracturing Crush|Fracturing Crush (Mag)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|MindFreakMod.png|Mind Freak|Mind Freak (Nyx)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PacifyingBoltsMod.png|Pacifying Bolts|Pacifying Bolts (Nyx)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ChaosSphereMod.png|Chaos Sphere|Chaos Sphere (Nyx)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|AssimilateMod.png|Assimilate|Assimilate (Nyx)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SmiteInfusionMod.png|Smite Infusion|Smite Infusion (Oberon)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|HallowedEruptionMod.png|Hallowed Eruption|Hallowed Eruption (Oberon)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PhoenixRenewalMod.png|Phoenix Renewal|Phoenix Renewal (Oberon)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|HallowedReckoningMod.png|Hallowed Reckoning|Hallowed Reckoning (Oberon)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PartitionedMalletMod.png|Partitioned Mallet|Partitioned Mallet (Octavia)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ConductorMod.png|Conductor|Conductor (Octavia)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SpellboundHarvestMod.png|Spellbound Harvest|Spellbound Harvest (Titania)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|BeguilingLanternMod.png|Beguiling Lantern|Beguiling Lantern (Titania)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|RazorwingBlitzMod.png|Razorwing Blitz|Razorwing Blitz (Titania)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|IroncladFlightMod.png|Ironclad Flight|Ironclad Flight (Titania)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|AxiosJavelineersMod.png|Axios Javelineers|Axios Javelineers (Styanax)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|TharrosLethalityMod.png|Tharros Lethality|Tharros Lethality (Styanax)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|IntrepidStandMod.png|Intrepid Stand|Intrepid Stand (Styanax)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PoolofLifeMod.png|Pool Of Life|Pool Of Life (Trinity)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|VampireLeechMod.png|Vampire Leech|Vampire Leech (Trinity)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|AbatingLinkMod.png|Abating Link|Abating Link (Trinity)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|Champion'sBlessingMod.png|Champion's Blessing|Champion's Blessing (Trinity)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SwingLineMod.png|Swing Line|Swing Line (Valkyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|EternalWarMod.png|Eternal War|Eternal War (Valkyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|ProlongedParalysisMod.png|Prolonged Paralysis|Prolonged Paralysis (Valkyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|HystericalAssaultMod.png|Hysterical Assault|Hysterical Assault (Valkyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|EnragedMod.png|Enraged|Enraged (Valkyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|FusedReservoirMod.png|Fused Reservoir|Fused Reservoir (Wisp)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|CriticalSurgeMod.png|Critical Surge|Critical Surge (Wisp)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|CataclysmicGateMod.png|Cataclysmic Gate|Cataclysmic Gate (Wisp)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|TargetFixationMod.png|Target Fixation|Target Fixation (Zephyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|AirburstRoundsMod.png|Airburst Rounds|Airburst Rounds (Zephyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|JetStreamMod.png|Jet Stream|Jet Stream (Zephyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|FunnelCloudsMod.png|Funnel Clouds|Funnel Clouds (Zephyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|AnchoredGlideMod.png|Anchored Glide|Anchored Glide (Zephyr)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|CelestialStompMod.png|Celestial_Stomp|Celestial Stomp (Wukong)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|EnvelopingCloudMod.png|Enveloping Cloud|Enveloping Cloud (Wukong)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|PrimalRageMod.png|Primal Rage|Primal Rage (Wukong)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|MerulinaGuardianMod.png|Merulina Guardian|Merulina Guardian (Yareli)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|LoyalMerulinaMod.png|Loyal Merulina|Loyal Merulina (Yareli)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|SurgingBladesMod.png|Surging Blades|Surging Blades (Yareli)|25,000|Rank 5: Flawless}}
+{{SynOfferBox|HumanitySigil.png|Sigils|Humanity Sigil|30,000|Rank 5: Flawless}}
+{{SynOfferBox|SanctiCastanas.png|Sancti Castanas|Sancti Castanas|100,000|Rank 5: Flawless}}
+{{SynOfferBox|SanctiTigris.png|Sancti Tigris|Sancti Tigris|125,000|Rank 5: Flawless}}
+{{SynOfferBox|SanctiMagistar.png|Sancti Magistar|Sancti Magistar|125,000|Rank 5: Flawless}}
+{{SynOfferBox|SanctiSyandana.png|Sancti Syandana|Sancti Syandana|100,000|Rank 5: Flawless}}
+{{SynOfferBox|Amaryn'sRetreatScene.png|Captura|Amaryn's Retreat Scene|100,000|Rank 5: Flawless}}
+{{SynOfferBox|GrineerShipyardsManufactoryScene.png|Captura|Grineer Shipyards Manufactory Scene|100,000|Rank 5: Flawless}}
+{{SynOfferBox|SilverGroveShrineScene.png|Captura|Silver Grove Shrine Scene|100,000|Rank 5: Flawless}}
+{{SynOfferBox|NewLokaStencil.png|Orbiter#Stencils|New Loka Stencil|125,000|Rank 5: Flawless}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: Flawless|blueprint=t}}
+{{SynOfferBox|NewLokaCombatEmote.png|Emotes|New Loka Combat Emote|70,000|Rank 5: Flawless}}
+{{SynOfferBox|NewLokaEngineeringEmote.png|Emotes|New Loka Engineering Emote|70,000|Rank 5: Flawless}}
+{{SynOfferBox|NewLokaPilotingEmote.png|Emotes|New Loka Piloting Emote|70,000|Rank 5: Flawless}}
+{{SynOfferBox|NewLokaEnduranceEmote.png|Emotes|New Loka Endurance Emote|70,000|Rank 5: Flawless}}
+{{SynOfferBox|SyndicateArmourPackNL.png|Armor (Cosmetic)|Lokan Armor Set|125,000|Rank 5: Flawless}}
+{{SynOfferBox|MoonlitCourtyardSimulacrum.png|Simulacrum|Moonlit Courtyard Simulacrum|100,000|Rank 5: Flawless}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: Flawless}}

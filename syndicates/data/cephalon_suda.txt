@@ -1,0 +1,104 @@
+{{SynOfferBox|CephalonSudaSigil.png|Sigils|Cephalon Suda Sigil|1,000|Rank 1: Competent}}
+{{SynOfferBox|ShieldOspreySpecter.png|Specter|5x Shield Osprey Specter|2,500|Rank 1: Competent}}
+{{SynOfferBox|QuerySigil.png|Sigils|Query Sigil|2,500|Rank 1: Competent}}
+{{SynOfferBox|SearchingSigil.png|Sigils|Searching Sigil|5,000|Rank 1: Competent}}
+{{SynOfferBox|PatternMatchSigil.png|Sigils|Pattern Match Sigil|7,500|Rank 1: Competent}}
+{{SynOfferBox|VoidRelicPack.png|Void Relic|Syndicate Relic Pack (3 x Random Void Relics)|20,000|Rank 2: Intriguing}}
+{{SynOfferBox|AtomicSigil.png|Sigils|Atomic Sigil|10,000|Rank 2: Intriguing}}
+{{SynOfferBox|ManifoldSigil.png|Sigils|Manifold Sigil|15,000|Rank 2: Intriguing}}
+{{SynOfferBox|Receiver.png|Dual_Decurion|Decurion Receiver|20,000|Rank 2:Intriguing}}
+{{SynOfferBox|Barrel.png|Velocitus|Velocitus Barrel|20,000|Rank 2: Intriguing}}
+{{SynOfferBox|Receiver.png|Corvas|Corvas Receiver|20,000|Rank 2: Intriguing}}
+{{SynOfferBox|FractalSigil.png|Sigils|Fractal Sigil|12,000|Rank 3: Intelligent}}
+{{SynOfferBox|MultivariateSigil.png|Sigils|Multivariate Sigil|17,000|Rank 3: Intelligent}}
+{{SynOfferBox|Receiver.png|Cyngas|Cyngas Receiver|20,000|Rank 3: Intelligent}}
+{{SynOfferBox|Barrel.png|Fluctus|Fluctus Barrel|20,000|Rank 3: Intelligent}}
+{{SynOfferBox|LargeTeamShieldPack.png|Squad Shield Restore|Squad Shield Restore (Large) Blueprint|25,000|Rank 3: Intelligent|blueprint=t}}
+{{SynOfferBox|EntropySpikeMod.png|Entropy Spike|Entropy Spike (Bolto)|25,000|Rank 4: Wise}}
+{{SynOfferBox|EntropyFlightMod.png|Entropy Flight|Entropy Flight (Kestrel)|25,000|Rank 4: Wise}}
+{{SynOfferBox|EntropyDetonationMod.png|Entropy Detonation|Entropy Detonation (Obex)|25,000|Rank 4: Wise}}
+{{SynOfferBox|EntropyBurstMod.png|Entropy Burst|Entropy Burst (Supra)|25,000|Rank 4: Wise}}
+{{SynOfferBox|LabyrinthSigil.png|Sigils|Labyrinth Sigil|15,000|Rank 4: Wise}}
+{{SynOfferBox|HexanSigil.png|Sigils|Hexan Sigil|20,000|Rank 4: Wise}}
+{{SynOfferBox|DatumSculpture.png|Orbiter#Decorations|Datum Sculpture|50,000|Rank 4: Wise}}
+{{SynOfferBox|SonicFractureMod.png|Sonic Fracture|Sonic Fracture (Banshee)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ResonanceMod.png|Resonance|Resonance (Banshee)|25,000|Rank 5: Genius}}
+{{SynOfferBox|SavageSilenceMod.png|Savage Silence|Savage Silence (Banshee)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ResonatingQuakeMod.png|Resonating Quake|Resonating Quake (Banshee)|25,000|Rank 5: Genius}}
+{{SynOfferBox|RazorMortarMod.png|Razor Mortar|Razor Mortar (Caliban)|25,000|Rank 5: Genius}}
+{{SynOfferBox|AfterburnMod.png|Afterburn|Afterburn (Chroma)|25,000|Rank 5: Genius}}
+{{SynOfferBox|EverlastingWardMod.png|Everlasting Ward|Everlasting Ward (Chroma)|25,000|Rank 5: Genius}}
+{{SynOfferBox|VexingRetaliationMod.png|Vexing Retaliation|Vexing Retaliation (Chroma)|25,000|Rank 5: Genius}}
+{{SynOfferBox|GuardianArmorMod.png|Guardian Armor|Guardian Armor (Chroma)|25,000|Rank 5: Genius}}
+{{SynOfferBox|GuidedEffigyMod.png|Guided Effigy|Guided Effigy (Chroma)|25,000|Rank 5: Genius}}
+{{SynOfferBox|FreezeForceMod.png|Freeze Force|Freeze Force (Frost)|25,000|Rank 5: Genius}}
+{{SynOfferBox|IceWaveImpedanceMod.png|Ice Wave Impedance|Ice Wave Impedance (Frost)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ChillingGlobeMod.png|Chilling Globe|Chilling Globe (Frost)|25,000|Rank 5: Genius}}
+{{SynOfferBox|IcyAvalancheMod.png|Icy Avalanche|Icy Avalanche (Frost)|25,000|Rank 5: Genius}}
+{{SynOfferBox|BitingFrostMod.png|Biting Frost|Biting Frost (Frost)|25,000|Rank 5: Genius}}
+{{SynOfferBox|BalefireSurgeMod.png|Balefire Surge|Balefire Surge (Hildryn)|25,000|Rank 5: Genius}}
+{{SynOfferBox|BlazingPillageMod.png|Blazing Pillage|Blazing Pillage (Hildryn)|25,000|Rank 5: Genius}}
+{{SynOfferBox|AegisGaleMod.png|Aegis Gale|Aegis Gale (Hildryn)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ViralTempestMod.png|Viral Tempest|Viral Tempest (Hydroid)|25,000|Rank 5: Genius}}
+{{SynOfferBox|TidalImpunityMod.png|Tidal Impunity|Tidal Impunity (Hydroid)|25,000|Rank 5: Genius}}
+{{SynOfferBox|RousingPlunderMod.png|Rousing Plunder|Rousing Plunder (Hydroid)|25,000|Rank 5: Genius}}
+{{SynOfferBox|PilferingSwarmMod.png|Pilfering Swarm|Pilfering Swarm (Hydroid)|25,000|Rank 5: Genius}}
+{{SynOfferBox|EmpoweredQuiverMod.png|Empowered Quiver|Empowered Quiver (Ivara)|25,000|Rank 5: Genius}}
+{{SynOfferBox|PiercingNavigatorMod.png|Piercing Navigator|Piercing Navigator (Ivara)|25,000|Rank 5: Genius}}
+{{SynOfferBox|InfiltrateMod.png|Infiltrate|Infiltrate (Ivara)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ConcentratedArrowMod.png|Concentrated Arrow|Concentrated Arrow (Ivara)|25,000|Rank 5: Genius}}
+{{SynOfferBox|RiftHavenMod.png|Rift Haven|Rift Haven (Limbo)|25,000|Rank 5: Genius}}
+{{SynOfferBox|RiftTorrentMod.png|Rift Torrent|Rift Torrent (Limbo)|25,000|Rank 5: Genius}}
+{{SynOfferBox|CataclysmicContinuumMod.png|Cataclysmic Continuum|Cataclysmic Continuum (Limbo)|25,000|Rank 5: Genius}}
+{{SynOfferBox|HallofMalevolenceMod.png|Hall of Malevolence|Hall of Malevolence (Mirage)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ExplosiveLegerdemainMod.png|Explosive Legerdemain|Explosive Legerdemain (Mirage)|25,000|Rank 5: Genius}}
+{{SynOfferBox|TotalEclipseMod.png|Total Eclipse|Total Eclipse (Mirage)|25,000|Rank 5: Genius}}
+{{SynOfferBox|PyroclasticFlowMod.png|Pyroclastic Flow|Pyroclastic Flow (Nezha)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ReapingChakramMod.png|Reaping Chakram|Reaping Chakram (Nezha)|25,000|Rank 5: Genius}}
+{{SynOfferBox|SafeguardMod.png|Safeguard|Safeguard (Nezha)|25,000|Rank 5: Genius}}
+{{SynOfferBox|DivineRetributionMod.png|Divine Retribution|Divine Retribution (Nezha)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ControlledSlideMod.png|Controlled Slide|Controlled Slide (Nezha)|25,000|Rank 5: Genius}}
+{{SynOfferBox|NeutronStarMod.png|Neutron Star|Neutron Star (Nova)|25,000|Rank 5: Genius}}
+{{SynOfferBox|AntimatterAbsorbMod.png|Antimatter Absorb|Antimatter Absorb (Nova)|25,000|Rank 5: Genius}}
+{{SynOfferBox|EscapeVelocityMod.png|Escape Velocity|Escape Velocity (Nova)|25,000|Rank 5: Genius}}
+{{SynOfferBox|MolecularFissionMod.png|Molecular Fission|Molecular Fission (Nova)|25,000|Rank 5: Genius}}
+{{SynOfferBox|PartitionedMalletMod.png|Partitioned Mallet|Partitioned Mallet (Octavia)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ConductorMod.png|Conductor|Conductor (Octavia)|25,000|Rank 5: Genius}}
+{{SynOfferBox|WreckingWallMod.png|Wrecking Wall|Wrecking Wall (Qorvex)|25,000|Rank 5: Genius}}
+{{SynOfferBox|FusedCrucibleMod.png|Fused Crucible|Fused Crucible (Qorvex)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ThrallPactMod.png|Thrall Pact|Thrall Pact (Revenant)|25,000|Rank 5: Genius}}
+{{SynOfferBox|MesmerShieldMod.png|Mesmer Shield|Mesmer Shield (Revenant)|25,000|Rank 5: Genius}}
+{{SynOfferBox|BlindingReaveMod.png|Blinding Reave|Blinding Reave (Revenant)|25,000|Rank 5: Genius}}
+{{SynOfferBox|ShadowHazeMod.png|Shadow Haze|Shadow Haze (Sevagoth)|25,000|Rank 5: Genius}}
+{{SynOfferBox|DarkPropagationMod.png|Dark Propagation|Dark Propagation (Sevagoth)|25,000|Rank 5: Genius}}
+{{SynOfferBox|TeslaBankMod.png|Tesla Bank|Tesla Bank (Vauban)|25,000|Rank 5: Genius}}
+{{SynOfferBox|RepellingBastilleMod.png|Repelling Bastille|Repelling Bastille (Vauban)|25,000|Rank 5: Genius}}
+{{SynOfferBox|PhotonRepeaterMod.png|Photon Repeater|Photon Repeater (Vauban)|25,000|Rank 5: Genius}}
+{{SynOfferBox|FusedReservoirMod.png|Fused Reservoir|Fused Reservoir (Wisp)|25,000|Rank 5: Genius}}
+{{SynOfferBox|CriticalSurgeMod.png|Critical Surge|Critical Surge (Wisp)|25,000|Rank 5: Genius}}
+{{SynOfferBox|CataclysmicGateMod.png|Cataclysmic Gate|Cataclysmic Gate (Wisp)|25,000|Rank 5: Genius}}
+{{SynOfferBox|VampiricGraspMod.png|Vampiric Grasp|Vampiric Grasp (Xaku)|25,000|Rank 5: Genius}}
+{{SynOfferBox|TheRelentlessLostMod.png|The Relentless Lost|The Relentless Lost (Xaku)|25,000|Rank 5: Genius}}
+{{SynOfferBox|UntimeRiftMod.png|Untime Rift|Untime Rift (Xaku)|25,000|Rank 5: Genius}}
+{{SynOfferBox|MerulinaGuardianMod.png|Merulina Guardian|Merulina Guardian (Yareli)|25,000|Rank 5: Genius}}
+{{SynOfferBox|LoyalMerulinaMod.png|Loyal Merulina|Loyal Merulina (Yareli)|25,000|Rank 5: Genius}}
+{{SynOfferBox|SurgingBladesMod.png|Surging Blades|Surging Blades (Yareli)|25,000|Rank 5: Genius}}
+{{SynOfferBox|OracleSigil.png|Sigils|Oracle Sigil|30,000|Rank 5: Genius}}
+{{SynOfferBox|SynoidGammacor.png|Synoid Gammacor|Synoid Gammacor|100,000|Rank 5: Genius}}
+{{SynOfferBox|SynoidSimulor.png|Synoid Simulor|Synoid Simulor|125,000|Rank 5: Genius}}
+{{SynOfferBox|SynoidHeliocor.png|Synoid Heliocor|Synoid Heliocor|125,000|Rank 5: Genius}}
+{{SynOfferBox|SynoidSyandana.png|Synoid Syandana|Synoid Syandana|100,000|Rank 5: Genius}}
+{{SynOfferBox|Suda'sDatascapeScene.png|Captura|Suda's Datascape Scene|100,000|Rank 5: Genius}}
+{{SynOfferBox|Hunhow'sDatascapeScene.png|Captura|Hunhow's Datascape Scene|100,000|Rank 5: Genius}}
+{{SynOfferBox|CorpusIcePlanetWreckageScene.png|Captura|Corpus Ice Planet Wreckage Scene|100,000|Rank 5: Genius}}
+{{SynOfferBox|ChamberoftheLotusScene.png|Captura|Chamber Of The Lotus Scene|100,000|Rank 5: Genius}}
+{{SynOfferBox|CephalonSudaStencil.png|Orbiter#Stencils|Cephalon Suda Stencil|125,000|Rank 5: Genius}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: Genius|blueprint=t}}
+{{SynOfferBox|CephalonSudaCombatEmote.png|Emotes|Cephalon Suda Combat Emote|70,000|Rank 5: Genius}}
+{{SynOfferBox|CephalonSudaEngineeringEmote.png|Emotes|Cephalon Suda Engineering Emote|70,000|Rank 5: Genius}}
+{{SynOfferBox|CephalonSudaGunneryEmote.png|Emotes|Cephalon Suda Gunnery Emote|70,000|Rank 5: Genius}}
+{{SynOfferBox|CephalonSudaPilotingEmote.png|Emotes|Cephalon Suda Piloting Emote|70,000|Rank 5: Genius}}
+{{SynOfferBox|CephalonSudaEnduranceEmote.png|Emotes|Cephalon Suda Endurance Emote|70,000|Rank 5: Genius}}
+{{SynOfferBox|SyndicateArmourPackCS.png|Armor (Cosmetic)|Suda Armor Set|125,000|Rank 5: Genius}}
+{{SynOfferBox|OrokinDerelictSimulacrum.png|Simulacrum|Orokin Derelict Simulacrum|100,000|Rank 5: Genius}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: Genius}}

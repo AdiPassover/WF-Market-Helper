@@ -1,0 +1,109 @@
+{{SynOfferBox|SteelMeridianSigil.png|Sigils|Steel Meridian Sigil|1,000|Rank 1: Brave}}
+{{SynOfferBox|RollerSpecter.png|Specter#Syndicate_Specters|5x Roller Specter|2,500|Rank 1: Brave}}
+{{SynOfferBox|DefianceSigil.png|Sigils|Defiance Sigil|2,500|Rank 1: Brave}}
+{{SynOfferBox|ArmadaSigil.png|Sigils|Armada Sigil|5,000|Rank 1: Brave}}
+{{SynOfferBox|VigilanceSigil.png|Sigils|Vigilance Sigil|7,500|Rank 1: Brave}}
+{{SynOfferBox|VoidRelicPack.png|Void Relics|Syndicate Relic Pack (3 X Random Void Relics)|20,000|Rank 2: Valiant}}
+{{SynOfferBox|UprisingSigil.png|Sigils|Uprising Sigil|10,000|Rank 2: Valiant}}
+{{SynOfferBox|ProtectorateSigil.png|Sigils|Protectorate Sigil|15,000|Rank 2: Valiant}}
+{{SynOfferBox|Handle.png|Kaszas|Kaszas Handle|20,000|Rank 2: Valiant|top = Rank 2: Valiant}}
+{{SynOfferBox|Receiver.png|Velocitus|Velocitus Receiver|20,000|Rank 2: Valiant}}
+{{SynOfferBox|Stock.png|Corvas|Corvas Stock|20,000|Rank 2: Valiant}}
+{{SynOfferBox|FreedomFighterSigil.png|Sigils|Freedom Fighter Sigil|12,000|Rank 3: Defender}}
+{{SynOfferBox|ArmoredSigil.png|Sigils|Armored Sigil|17,000|Rank 3: Defender}}
+{{SynOfferBox|GenericComponentLatch.png|Agkuza|Agkuza Guard|20,000|Rank 3: Defender}}
+{{SynOfferBox|Stock.png|Fluctus|Fluctus Stock|20,000|Rank 3: Defender}}
+{{SynOfferBox|LargeTeamHealPack.png|Squad_Health_Restore|Squad Health Restore (Large)  Blueprint|25,000|Rank 3: Defender|blueprint=t}}
+{{SynOfferBox|ScatteredJusticeMod.png|Scattered Justice|Scattered Justice (Hek)|25,000|Rank 4: Protector}}
+{{SynOfferBox|JusticeBladesMod.png|Justice Blades|Justice Blades (Dual Cleavers)|25,000|Rank 4: Protector}}
+{{SynOfferBox|NeutralizingJusticeMod.png|Neutralizing Justice|Neutralizing Justice (Miter)|25,000|Rank 4: Protector}}
+{{SynOfferBox|ShatteringJusticeMod.png|Shattering Justice|Shattering Justice (Sobek)|25,000|Rank 4: Protector}}
+{{SynOfferBox|RebellionSigil.png|Sigils|Rebellion Sigil|15,000|Rank 4: Protector}}
+{{SynOfferBox|UnyieldingSigil.png|Sigils|Unyielding Sigil|20,000|Rank 4: Protector}}
+{{SynOfferBox|InsigniaSculpture.png|Orbiter#Decorations|Insignia Sculpture|50,000|Rank 4 : Protector}}
+{{SynOfferBox|PathofStatuesMod.png|Path of Statues|Path of Statues (Atlas)|25,000|Rank 5: General}}
+{{SynOfferBox|TectonicFractureMod.png|Tectonic Fracture|Tectonic Fracture (Atlas)|25,000|Rank 5: General}}
+{{SynOfferBox|OreGazeMod.png|Ore Gaze|Ore Gaze (Atlas)|25,000|Rank 5: General}}
+{{SynOfferBox|TitanicRumblerMod.png|Titanic Rumbler|Titanic Rumbler (Atlas)|25,000|Rank 5: General}}
+{{SynOfferBox|RubbleHeapMod.png|Rubble Heap|Rubble Heap (Atlas)|25,000|Rank 5: General}}
+{{SynOfferBox|PrismaticCompanionMod.png|Prismatic Companion|Prismatic Companion (Citrine)|25,000|Rank 5: General}}
+{{SynOfferBox|RecrystalizeMod.png|Recrystalize|Recrystalize (Citrine)|25,000|Rank 5: General}}
+{{SynOfferBox|FireballFrenzyMod.png|Fireball Frenzy|Fireball Frenzy (Ember)|25,000|Rank 5: General}}
+{{SynOfferBox|ImmolatedRadianceMod.png|Immolated Radiance|Immolated Radiance (Ember)|25,000|Rank 5: General}}
+{{SynOfferBox|HealingFlameMod.png|Healing Flame|Healing Flame (Ember)|25,000|Rank 5: General}}
+{{SynOfferBox|ExothermicMod.png|Exothermic|Exothermic (Ember)|25,000|Rank 5: General}}
+{{SynOfferBox|SurgingDashMod.png|Surging Dash|Surging Dash (Excalibur)|25,000|Rank 5: General}}
+{{SynOfferBox|RadiantFinishMod.png|Radiant Finish|Radiant Finish (Excalibur)|25,000|Rank 5: General}}
+{{SynOfferBox|FuriousJavelinMod.png|Furious Javelin|Furious Javelin (Excalibur)|25,000|Rank 5: General}}
+{{SynOfferBox|ChromaticBladeMod.png|Chromatic Blade|Chromatic Blade (Excalibur)|25,000|Rank 5: General}}
+{{SynOfferBox|FreezeForceMod.png|Freeze Force|Freeze Force (Frost)|25,000|Rank 5: General}}
+{{SynOfferBox|IceWaveImpedanceMod.png|Ice Wave Impedance|Ice Wave Impedance (Frost)|25,000|Rank 5: General}}
+{{SynOfferBox|ChillingGlobeMod.png|Chilling Globe|Chilling Globe (Frost)|25,000|Rank 5: General}}
+{{SynOfferBox|IcyAvalancheMod.png|Icy Avalanche|Icy Avalanche (Frost)|25,000|Rank 5: General}}
+{{SynOfferBox|BitingFrostMod.png|Biting Frost|Biting Frost (Frost)|25,000|Rank 5: General}}
+{{SynOfferBox|DreadWardMod.png|Dread Ward|Dread Ward (Garuda)|25,000|Rank 5: General}}
+{{SynOfferBox|BloodForgeMod.png|Blood Forge|Blood Forge (Garuda)|25,000|Rank 5: General}}
+{{SynOfferBox|BlendingTalonsMod.png|Blending Talons|Blending Talons (Garuda)|25,000|Rank 5: General}}
+{{SynOfferBox|GourmandMod.png|Gourmand|Gourmand (Grendel)|25,000|Rank 5: General}}
+{{SynOfferBox|HeartyNourishmentMod.png|Hearty Nourishment|Hearty Nourishment (Grendel)|25,000|Rank 5: General}}
+{{SynOfferBox|CatapultMod.png|Catapult|Catapult (Grendel)|25,000|Rank 5: General}}
+{{SynOfferBox|GastroMod.png|Gastro|Gastro (Grendel)|25,000|Rank 5: General}}
+{{SynOfferBox|AccumulatingWhipclawMod.png|Accumulating Whipclaw|Accumulating Whipclaw (Khora)|25,000|Rank 5: General}}
+{{SynOfferBox|VenariBodyguardMod.png|Venari Bodyguard|Venari Bodyguard (Khora)|25,000|Rank 5: General}}
+{{SynOfferBox|PilferingStrangledomeMod.png|Pilfering Strangledome|Pilfering Strangledome (Khora)|25,000|Rank 5: General}}
+{{SynOfferBox|VolatileRecompenseMod.png|Volatile Recompense|Volatile Recompense (Kullervo)|25,000|Rank 5: General}}
+{{SynOfferBox|WrathofUkkoMod.png|Wrath of Ukko|Wrath of Ukko (Kullervo)|25,000|Rank 5: General}}
+{{SynOfferBox|BallisticBullseyeMod.png|Ballistic Bullseye|Ballistic Bullseye (Mesa)|25,000|Rank 5: General}}
+{{SynOfferBox|StaggeringShieldMod.png|Staggering Shield|Staggering Shield (Mesa)|25,000|Rank 5: General}}
+{{SynOfferBox|MuzzleFlashMod.png|Muzzle Flash|Muzzle Flash (Mesa)|25,000|Rank 5: General}}
+{{SynOfferBox|Mesa'sWaltzMod.png|Mesa's Waltz|Mesa's Waltz (Mesa)|25,000|Rank 5: General}}
+{{SynOfferBox|PyroclasticFlowMod.png|Pyroclastic Flow|Pyroclastic Flow (Nezha)|25,000|Rank 5: General}}
+{{SynOfferBox|ReapingChakramMod.png|Reaping Chakram|Reaping Chakram (Nezha)|25,000|Rank 5: General}}
+{{SynOfferBox|SafeguardMod.png|Safeguard|Safeguard (Nezha)|25,000|Rank 5: General}}
+{{SynOfferBox|DivineRetributionMod.png|Divine Retribution|Divine Retribution (Nezha)|25,000|Rank 5: General}}
+{{SynOfferBox|ControlledSlideMod.png|Controlled Slide|Controlled Slide (Nezha)|25,000|Rank 5: General}}
+{{SynOfferBox|TeemingVirulenceMod.png|Teeming Virulence|Teeming Virulence (Nidus)|25,000|Rank 5: General}}
+{{SynOfferBox|LarvaBurstMod.png|Larva Burst|Larva Burst (Nidus)|25,000|Rank 5: General}}
+{{SynOfferBox|ParasiticVitalityMod.png|Parasitic Vitality|Parasitic Vitality (Nidus)|25,000|Rank 5: General}}
+{{SynOfferBox|InsatiableMod.png|Insatiable|Insatiable (Nidus)|25,000|Rank 5: General}}
+{{SynOfferBox|AbundantMutationMod.png|Abundant Mutation|Abundant Mutation (Nidus)|25,000|Rank 5: General}}
+{{SynOfferBox|NeutronStarMod.png|Neutron Star|Neutron Star (Nova)|25,000|Rank 5: General}}
+{{SynOfferBox|AntimatterAbsorbMod.png|Antimatter Absorb|Antimatter Absorb (Nova)|25,000|Rank 5: General}}
+{{SynOfferBox|EscapeVelocityMod.png|Escape Velocity|Escape Velocity (Nova)|25,000|Rank 5: General}}
+{{SynOfferBox|MolecularFissionMod.png|Molecular Fission|Molecular Fission (Nova)|25,000|Rank 5: General}}
+{{SynOfferBox|SmiteInfusionMod.png|Smite Infusion|Smite Infusion (Oberon)|25,000|Rank 5: General}}
+{{SynOfferBox|HallowedEruptionMod.png|Hallowed Eruption|Hallowed Eruption (Oberon)|25,000|Rank 5: General}}
+{{SynOfferBox|PhoenixRenewalMod.png|Phoenix Renewal|Phoenix Renewal (Oberon)|25,000|Rank 5: General}}
+{{SynOfferBox|HallowedReckoningMod.png|Hallowed Reckoning|Hallowed Reckoning (Oberon)|25,000|Rank 5: General}}
+{{SynOfferBox|WreckingWallMod.png|Wrecking Wall|Wrecking Wall (Qorvex)|25,000|Rank 5: General}}
+{{SynOfferBox|FusedCrucibleMod.png|Fused Crucible|Fused Crucible (Qorvex)|25,000|Rank 5: General}}
+{{SynOfferBox|IroncladChargeMod.png|Ironclad Charge|Ironclad Charge (Rhino)|25,000|Rank 5: General}}
+{{SynOfferBox|IronShrapnelMod.png|Iron Shrapnel|Iron Shrapnel (Rhino)|25,000|Rank 5: General}}
+{{SynOfferBox|PiercingRoarMod.png|Piercing Roar|Piercing Roar (Rhino)|25,000|Rank 5: General}}
+{{SynOfferBox|ReinforcingStompMod.png|Reinforcing Stomp|Reinforcing Stomp (Rhino)|25,000|Rank 5: General}}
+{{SynOfferBox|VenomDoseMod.png|Venom Dose|Venom Dose (Saryn)|25,000|Rank 5: General}}
+{{SynOfferBox|RevealingSporesMod.png|Revealing Spores|Revealing Spores (Saryn)|25,000|Rank 5: General}}
+{{SynOfferBox|RegenerativeMoltMod.png|Regenerative Molt|Regenerative Molt (Saryn)|25,000|Rank 5: General}}
+{{SynOfferBox|ContagionCloudMod.png|Contagion Cloud|Contagion Cloud (Saryn)|25,000|Rank 5: General}}
+{{SynOfferBox|PreyofDynarMod.png|Prey of Dynar|Prey of Dynar (Voruna)|25,000|Rank 5: General}}
+{{SynOfferBox|Ulfrun'sEnduranceMod.png|Ulfrun's Endurance|Ulfrun's Endurance (Voruna)|25,000|Rank 5: General}}
+{{SynOfferBox|VampiricGraspMod.png|Vampiric Grasp|Vampiric Grasp (Xaku)|25,000|Rank 5: General}}
+{{SynOfferBox|TheRelentlessLostMod.png|The Relentless Lost|The Relentless Lost (Xaku)|25,000|Rank 5: General}}
+{{SynOfferBox|UntimeRiftMod.png|Untime Rift|Untime Rift (Xaku)|25,000|Rank 5: General}}
+{{SynOfferBox|ChampionSigil.png|Sigils|Champion Sigil|30,000|Rank 5: General}}
+{{SynOfferBox|VaykorMarelok.png|Vaykor Marelok|Vaykor Marelok|100,000|Rank 5: General}}
+{{SynOfferBox|VaykorHek.png|Vaykor Hek|Vaykor Hek|125,000|Rank 5: General}}
+{{SynOfferBox|VaykorSydon.png|Vaykor Sydon|Vaykor Sydon|125,000|Rank 5: General}}
+{{SynOfferBox|VaykorSyandana.png|Vaykor Syandana|Vaykor Syandana|100,000|Rank 5: General}}
+{{SynOfferBox|Cressa'sGarrisonScene.png|Captura|Cressa's Garrison Scene|100,000|Rank 5: General}}
+{{SynOfferBox|GrineerSettlementReactorScene.png|Captura|Grineer Settlement Reactor Scene|100,000|Rank 5: General}}
+{{SynOfferBox|KuvaThroneScene.png|Captura|Kuva Throne Scene|100,000|Rank 5: General}}
+{{SynOfferBox|SteelMeridianStencil.png|Orbiter#Stencils|Steel Meridian Stencil|125,000|Rank 5: General}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: General|blueprint=t}}
+{{SynOfferBox|SteelMeridianCombatEmote.png|Emotes|Steel Meridian Combat Emote|70,000|Rank 5: General}}
+{{SynOfferBox|SteelMeridianGunneryEmote.png|Emotes|Steel Meridian Gunnery Emote|70,000|Rank 5: General}}
+{{SynOfferBox|SteelMeridianPilotingEmote.png|Emotes|Steel Meridian Piloting Emote|70,000|Rank 5: General}}
+{{SynOfferBox|SteelMeridianEnduranceEmote.png|Emotes|Steel Meridian Endurance Emote|70,000|Rank 5: General}}
+{{SynOfferBox|SyndicateArmourPackSM.png|Armor (Cosmetic)|Meridian Armor Set|125,000|Rank 5: General}}
+{{SynOfferBox|GrineerAsteroidSimulacrum.png|Simulacrum|Grineer Asteroid Simulacrum|100,000|Rank 5: General}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: General}}

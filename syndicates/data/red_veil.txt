@@ -1,0 +1,105 @@
+{{SynOfferBox|RedVeilSigil.png|Sigils|Red Veil Sigil|1,000|Rank 1: Respected}}
+{{SynOfferBox|ChargerSpecter.png|Specter|5x Charger Specter|2,500|Rank 1: Respected}}
+{{SynOfferBox|BladesSigil.png|Sigils|Blades Sigil|2,500|Rank 1: Respected}}
+{{SynOfferBox|CullSigil.png|Sigils|Cull Sigil|5,000|Rank 1: Respected}}
+{{SynOfferBox|ThreatSigil.png|Sigils|Threat Sigil|7,500|Rank 1: Respected}}
+{{SynOfferBox|VoidRelicPack.png|Void Relic|Syndicate Relic Pack (3 x Random Void Relics)|20,000|Rank 2: Honored}}
+{{SynOfferBox|MaelstromSigil.png|Sigils|Maelstrom Sigil|10,000|Rank 2: Honored}}
+{{SynOfferBox|LesionSigil.png|Sigils|Lesion Sigil|15,000|Rank 2: Honored}}
+{{SynOfferBox|Blade.png|Kaszas|Kaszas Blade|20,000|Rank 2: Honored}}
+{{SynOfferBox|Stock.png|Velocitus|Velocitus Stock|20,000|Rank 2: Honored}}
+{{SynOfferBox|Handle.png|Rathbone|Rathbone Handle|20,000|Rank 2: Honored}}
+{{SynOfferBox|RuinSigil.png|Sigils|Ruin Sigil|12,000|Rank 3: Esteemed}}
+{{SynOfferBox|VisceraSigil.png|Sigils|Viscera Sigil|17,000|Rank 3: Esteemed}}
+{{SynOfferBox|Handle.png|Agkuza|Agkuza Handle|20,000|Rank 3: Esteemed}}
+{{SynOfferBox|Stock.png|Fluctus|Fluctus Limbs|20,000|Rank 3: Esteemed}}
+{{SynOfferBox|LargeTeamAmmoPack.png|Squad_Ammo_Restore|Squad Ammo Restore (Large) Blueprint|25,000|Rank 3: Esteemed|blueprint=t}}
+{{SynOfferBox|GleamingBlightMod.png|Gleaming Blight|Gleaming Blight (Dark Dagger)|25,000|Rank 4: Revered}}
+{{SynOfferBox|ErodingBlightMod.png|Eroding Blight|Eroding Blight (Embolist)|25,000|Rank 4: Revered}}
+{{SynOfferBox|StockpiledBlightMod.png|Stockpiled Blight|Stockpiled Blight (Kunai)|25,000|Rank 4: Revered}}
+{{SynOfferBox|ToxicBlightMod.png|Toxic Blight|Toxic Blight (Mire)|25,000|Rank 4: Revered}}
+{{SynOfferBox|MalevolentSigil.png|Sigils|Malevolent Sigil|15,000|Rank 4: Revered}}
+{{SynOfferBox|CovertSigil.png|Sigils|Covert Sigil|20,000|Rank 4: Revered}}
+{{SynOfferBox|MarkSculpture.png|Decorations/Orbiter_Decorations#Syndicate_Sculptures|Mark Sculpture|50,000|Rank 4 : Revered}}
+{{SynOfferBox|SeekingShurikenMod.png|Seeking Shuriken|Seeking Shuriken (Ash)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SmokeShadowMod.png|Smoke Shadow|Smoke Shadow (Ash)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Teleport Rush (Ash)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RisingStormMod.png|Rising Storm|Rising Storm (Ash)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|PathofStatuesMod.png|Path of Statues|Path of Statues (Atlas)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TectonicFractureMod.png|Tectonic Fracture|Tectonic Fracture (Atlas)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|OreGazeMod.png|Ore Gaze|Ore Gaze (Atlas)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TitanicRumblerMod.png|Titanic Rumbler|Titanic Rumbler (Atlas)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RubbleHeapMod.png|Rubble Heap|Rubble Heap (Atlas)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|PrismaticCompanionMod.png|Prismatic Companion|Prismatic Companion (Citrine)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RecrystalizeMod.png|Recrystalize|Recrystalize (Citrine)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SpectralSpiritMod.png|Spectral Spirit|Spectral Spirit (Dagath)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|FireballFrenzyMod.png|Fireball Frenzy|Fireball Frenzy (Ember)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ImmolatedRadianceMod.png|Immolated Radiance|Immolated Radiance (Ember)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|HealingFlameMod.png|Healing Flame|Healing Flame (Ember)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ExothermicMod.png|Exothermic|Exothermic (Ember)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|Warrior'sRestMod.png|Warrior's Rest|Warrior's Rest (Excalibur Umbra)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|DreadWardMod.png|Dread Ward|Dread Ward (Garuda)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|BloodForgeMod.png|Blood Forge|Blood Forge (Garuda)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|BlendingTalonsMod.png|Blending Talons|Blending Talons (Garuda)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|GourmandMod.png|Gourmand|Gourmand (Grendel)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|HeartyNourishmentMod.png|Hearty Nourishment|Hearty Nourishment (Grendel)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|CatapultMod.png|Catapult|Catapult (Grendel)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|GastroMod.png|Gastro|Gastro (Grendel)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TribunalMod.png|Tribunal|Tribunal (Harrow)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|WardingThuribleMod.png|Warding Thurible|Warding Thurible (Harrow)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|LastingCovenantMod.png|Lasting Covenant|Lasting Covenant (Harrow)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|Jade'sJudgmentMod.png|Jade's Judgment|Jade's Judgment (Jade)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|AccumulatingWhipclawMod.png|Accumulating Whipclaw|Accumulating Whipclaw (Khora)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|VenariBodyguardMod.png|Venari Bodyguard|Venari Bodyguard (Khora)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|PilferingStrangledomeMod.png|Pilfering Strangledome|Pilfering Strangledome (Khora)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SwiftBiteMod.png|Swift Bite|Swift Bite (Lavos)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ValenceFormationMod.png|Valence Formation|Valence Formation (Lavos)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|LingeringTransmutationMod.png|Lingering Transmutation|Lingering Transmutation (Lavos)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SaviorDecoyMod.png|Savior Decoy|Savior Decoy (Loki)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|DamageDecoyMod.png|Damage Decoy|Damage Decoy (Loki)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|HushedInvisibilityMod.png|Hushed Invisibility|Hushed Invisibility (Loki)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SafeguardSwitchMod.png|Safeguard Switch|Safeguard Switch (Loki)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|IrradiatingDisarmMod.png|Irradiating Disarm|Irradiating Disarm (Loki)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|BallisticBullseyeMod.png|Ballistic Bullseye|Ballistic Bullseye (Mesa)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|StaggeringShieldMod.png|Staggering Shield|Staggering Shield (Mesa)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|MuzzleFlashMod.png|Muzzle Flash|Muzzle Flash (Mesa)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|Mesa'sWaltzMod.png|Mesa's Waltz|Mesa's Waltz (Mesa)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SoulSurvivorMod.png|Soul Survivor|Soul Survivor (Nekros)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|CreepingTerrifyMod.png|Creeping Terrify|Creeping Terrify (Nekros)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|DespoilMod.png|Despoil|Despoil (Nekros)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ShieldofShadowsMod.png|Shield of Shadows|Shield of Shadows (Nekros)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|VenomDoseMod.png|Venom Dose|Venom Dose (Saryn)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RevealingSporesMod.png|Revealing Spores|Revealing Spores (Saryn)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RegenerativeMoltMod.png|Regenerative Molt|Regenerative Molt (Saryn)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ContagionCloudMod.png|Contagion Cloud|Contagion Cloud (Saryn)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|SpellboundHarvestMod.png|Spellbound Harvest|Spellbound Harvest (Titania)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|BeguilingLanternMod.png|Beguiling Lantern|Beguiling Lantern (Titania)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|RazorwingBlitzMod.png|Razorwing Blitz|Razorwing Blitz (Titania)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|IroncladFlightMod.png|Ironclad Flight|Ironclad Flight (Titania)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ShockTrooperMod.png|Shock Trooper|Shock Trooper (Volt)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|ShockingSpeedMod.png|Shocking Speed|Shocking Speed (Volt)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TransistorShieldMod.png|Transistor Shield|Transistor Shield (Volt)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|CapacitanceMod.png|Capacitance|Capacitance (Volt)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|PreyofDynarMod.png|Prey of Dynar|Prey of Dynar (Voruna)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|Ulfrun'sEnduranceMod.png|Ulfrun's Endurance|Ulfrun's Endurance (Voruna)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TargetFixationMod.png|Target Fixation|Target Fixation (Zephyr)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|AirburstRoundsMod.png|Airburst Rounds|Airburst Rounds (Zephyr)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|JetStreamMod.png|Jet Stream|Jet Stream (Zephyr)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|FunnelCloudsMod.png|Funnel Clouds|Funnel Clouds (Zephyr)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|AnchoredGlideMod.png|Anchored Glide|Anchored Glide (Zephyr)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|AssassinSigil.png|Sigils|Assassin Sigil|30,000|Rank 5: Exalted}}
+{{SynOfferBox|RaktaBallistica.png|Rakta Ballistica|Rakta Ballistica|100,000|Rank 5: Exalted}}
+{{SynOfferBox|RaktaCernos.png|Rakta Cernos|Rakta Cernos|125,000|Rank 5: Exalted}}
+{{SynOfferBox|RaktaDarkDagger.png|Rakta Dark Dagger|Rakta Dark Dagger|125,000|Rank 5: Exalted}}
+{{SynOfferBox|AsitaRaktaSyandana.png|Asita Rakta Syandana|Asita Rakta Syandana|100,000|Rank 5: Exalted}}
+{{SynOfferBox|Veil'sBindingScene.png|Captura|Veil's Binding Scene|100,000|Rank 5: Exalted}}
+{{SynOfferBox|Harrow'sTempleScene.png|Captura|Harrow's Temple Scene|100,000|Rank 5: Exalted}}
+{{SynOfferBox|InfestedShipBridgeScene.png|Captura|Infested Ship Bridge Scene|100,000|Rank 5: Exalted}}
+{{SynOfferBox|Hunhow'sChamberScene.png|Captura|Hunhow's Chamber Scene|100,000|Rank 5: Exalted}}
+{{SynOfferBox|RedVeilStencil.png|Orbiter#Stencils|Red Veil Stencil|125,000|Rank 5: Exalted}}
+{{SynOfferBox|ExilusWeaponAdapter.png|Exilus Weapon Adapter|Exilus Weapon Adapter Blueprint|75,000|Rank 5: Exalted|blueprint=t}}
+{{SynOfferBox|RedVeilEngineeringEmote.png|Emotes|Red Veil Engineering Emote|70,000|Rank 5: Exalted}}
+{{SynOfferBox|RedVeilPilotingEmote.png|Emotes|Red Veil Piloting Emote|70,000|Rank 5: Exalted}}
+{{SynOfferBox|SyndicateArmourPackRV.png|Armor (Cosmetic)|Red Veil Armor Set|125,000|Rank 5: Exalted}}
+{{SynOfferBox|RedVeilTempleSimulacrum.png|Simulacrum|Red Veil Temple Simulacrum|100,000|Rank 5: Exalted}}
+{{SynOfferBox|Vosfor.png|Vosfor|Vosfor Cache (200x)|30,000|Rank 5: Exalted}}
