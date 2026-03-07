@@ -23,7 +23,7 @@
 {{SynOfferBox|MedallionSculpture.png|Orbiter#Decorations|Medallion Sculpture|50,000|Rank 4: Crusader}}
 {{SynOfferBox|SeekingShurikenMod.png|Seeking Shuriken|Seeking Shuriken (Ash)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|SmokeShadowMod.png|Smoke Shadow|Smoke Shadow (Ash)|25,000|Rank 5: Maxim}}
-{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Teleport Rush (Ash)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Fatal Teleport (Ash)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|RisingStormMod.png|Rising Storm|Rising Storm (Ash)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|ElusiveRetributionMod.png|Elusive Retribution|Elusive Retribution (Baruuk)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|EndlessLullabyMod.png|Endless Lullaby|Endless Lullaby (Baruuk)|25,000|Rank 5: Maxim}}
@@ -51,7 +51,7 @@
 {{SynOfferBox|LastingCovenantMod.png|Lasting Covenant|Lasting Covenant (Harrow)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|Desiccation'sCurseMod.png|Desiccation's Curse|Desiccation's Curse (Inaros)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|ElementalSandstormMod.png|Elemental Sandstorm|Elemental Sandstorm (Inaros)|25,000|Rank 5: Maxim}}
-{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Armor (Inaros)|25,000|Rank 5: Maxim}}
+{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Swarm (Inaros)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|Jade'sJudgmentMod.png|Jade's Judgment|Jade's Judgment (Jade)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|Omikuji'sFortuneMod.png|Omikuji's Fortune|Omikuji's Fortune (Koumei)|25,000|Rank 5: Maxim}}
 {{SynOfferBox|RiftHavenMod.png|Rift Haven|Rift Haven (Limbo)|25,000|Rank 5: Maxim}}

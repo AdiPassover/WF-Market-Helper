@@ -18,3 +18,5 @@ SYNDICATE_WEAPON_SERIES = {
     "perrin_sequence": "Secura",
     "new_loka": "Sancti"
 }
+
+SYNDICATE_NAMES = ['steel_meridian', 'red_veil', 'arbiters_of_hexis', 'cephalon_suda', 'perrin_sequence', 'new_loka']

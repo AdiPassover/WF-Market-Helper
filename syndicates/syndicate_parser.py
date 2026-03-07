@@ -84,7 +84,7 @@ def _parse_offer_type(parts: OfferParts) -> OfferType:
 
 def _parse_item_slug(parts: OfferParts) -> str:
     name = re.sub(r"\(.*?\)", "", parts.slug)  # remove "(Warframe/Weapon)"
-    name = name.strip()
+    name = name.replace("'", "").replace("&", "and").strip()
     return name.lower().replace(" ", "_")
 
 def _parse_price(parts: OfferParts) -> int:

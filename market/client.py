@@ -66,3 +66,11 @@ class WarframeMarketClient:
             raise RuntimeError(payload["error"])
 
         return payload["data"]
+
+
+# Example usage
+if __name__ == "__main__":
+    client = WarframeMarketClient()
+    buys, sells = client.get_orders("soma_prime_set")
+    print(f"Best buy: {buys[0]['platinum']}p")
+    print(f"Best sell: {sells[0]['platinum']}p")

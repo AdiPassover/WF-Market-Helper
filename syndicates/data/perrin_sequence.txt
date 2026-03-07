@@ -42,7 +42,7 @@
 {{SynOfferBox|AegisGaleMod.png|Aegis Gale|Aegis Gale (Hildryn)|25,000|Rank 5: Partner}}
 {{SynOfferBox|Desiccation'sCurseMod.png|Desiccation's Curse|Desiccation's Curse (Inaros)|25,000|Rank 5: Partner}}
 {{SynOfferBox|ElementalSandstormMod.png|Elemental Sandstorm|Elemental Sandstorm (Inaros)|25,000|Rank 5: Partner}}
-{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Armor (Inaros)|25,000|Rank 5: Partner}}
+{{SynOfferBox|NegationArmorMod.png|Negation Armor|Negation Swarm (Inaros)|25,000|Rank 5: Partner}}
 {{SynOfferBox|EmpoweredQuiverMod.png|Empowered Quiver|Empowered Quiver (Ivara)|25,000|Rank 5: Partner}}
 {{SynOfferBox|PiercingNavigatorMod.png|Piercing Navigator|Piercing Navigator (Ivara)|25,000|Rank 5: Partner}}
 {{SynOfferBox|InfiltrateMod.png|Infiltrate|Infiltrate (Ivara)|25,000|Rank 5: Partner}}

@@ -23,7 +23,7 @@
 {{SynOfferBox|MarkSculpture.png|Decorations/Orbiter_Decorations#Syndicate_Sculptures|Mark Sculpture|50,000|Rank 4 : Revered}}
 {{SynOfferBox|SeekingShurikenMod.png|Seeking Shuriken|Seeking Shuriken (Ash)|25,000|Rank 5: Exalted}}
 {{SynOfferBox|SmokeShadowMod.png|Smoke Shadow|Smoke Shadow (Ash)|25,000|Rank 5: Exalted}}
-{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Teleport Rush (Ash)|25,000|Rank 5: Exalted}}
+{{SynOfferBox|TeleportRushMod.png|Teleport Rush|Fatal Teleport (Ash)|25,000|Rank 5: Exalted}}
 {{SynOfferBox|RisingStormMod.png|Rising Storm|Rising Storm (Ash)|25,000|Rank 5: Exalted}}
 {{SynOfferBox|PathofStatuesMod.png|Path of Statues|Path of Statues (Atlas)|25,000|Rank 5: Exalted}}
 {{SynOfferBox|TectonicFractureMod.png|Tectonic Fracture|Tectonic Fracture (Atlas)|25,000|Rank 5: Exalted}}
