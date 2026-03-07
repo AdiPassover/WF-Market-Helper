@@ -38,6 +38,13 @@ class WarframeMarketClient:
 
         return buys, sells
 
+    def get_buy_orders(self, slug, online_only=True) -> list:
+        """Returns a list of buy orders for the given item slug sorted by best price."""
+        return self.get_orders(slug, online_only)[0]
+    def get_sell_orders(self, slug, online_only=True) -> list:
+        """Returns a list of sell orders for the given item slug sorted by best price."""
+        return self.get_orders(slug, online_only)[1]
+
     def _rate_limit(self):
         elapsed = time.time() - self._last_request_time
         if elapsed < self.RATE_LIMIT_DELAY:
