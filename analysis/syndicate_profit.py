@@ -1,7 +1,7 @@
 import csv
 from typing import Optional
 
-from market.client import WarframeMarketClient
+from api.market import WarframeMarketClient
 from syndicates.syndicate_parser import parse_syndicate
 
 

@@ -3,20 +3,26 @@ import time
 
 
 class WarframeMarketClient:
+    _instance = None
 
     BASE_URL = "https://api.warframe.market/v2"
     RATE_LIMIT_DELAY = 0.35  # ~3 requests/sec
 
-    def __init__(self, platform="pc", crossplay=True, language="en"):
-        self.session = requests.Session()
+    def __new__(self, platform="pc", crossplay=True, language="en"):
+        if self._instance is None:
+            self._instance = super(WarframeMarketClient, self).__new__(self)
+            self._instance.session = requests.Session()
+            self._instance.session.headers.update({
+                "Platform": platform,
+                "Crossplay": str(crossplay).lower(),
+                "Language": language
+            })
+            self._instance._last_request_time = 0
+        return self._instance
 
-        self.session.headers.update({
-            "Platform": platform,
-            "Crossplay": str(crossplay).lower(),
-            "Language": language
-        })
-
-        self._last_request_time = 0
+    def get_item_info(self, slug) -> dict:
+        """Returns detailed information about an item given its slug."""
+        return self._get(f"/items/{slug}")
 
     def get_orders(self, slug, online_only=True) -> tuple[list, list]:
         """Returns a tuple of (buys, sells) for the given item slug sorted by best price."""

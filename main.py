@@ -1,9 +1,17 @@
-from analysis.syndicate_profit import profit_of_syndicates
+import time
+from relics.relic_loader import get_relics_data
 
 
 def main():
 
-    profit_of_syndicates(loading_bar=True, save_output=True)
+    start_time = time.time()
+    relics, rewards = get_relics_data()
+    print(relics)
+    print(rewards)
+    end_time = time.time()
+    print(f"Relics analysis took {end_time - start_time:.2f} seconds")
+
+
 
 
 
