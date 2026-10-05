@@ -1,5 +1,6 @@
 import csv
 from typing import Optional
+import argparse
 
 from api.market import WarframeMarketClient
 from syndicates.syndicate_parser import parse_syndicate
@@ -108,3 +109,35 @@ def profit_of_syndicates(syndicate_names: Optional[list[str]] = None, loading_ba
             print(
                 f"{slug}: {standings} standings for {platinum} platinum (profit per 1K standing={platinum / float(standings / 1000):.2f})")
         print()
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Calculate profits from syndicate offers in Warframe."
+    )
+    parser.add_argument(
+        "--syndicates",
+        nargs="+",
+        help="List of syndicate names to calculate profits for. If not provided, all syndicates will be processed.",
+    )
+    parser.add_argument(
+        "--no-loading-bar",
+        action="store_true",
+        help="Disable the loading bar display.",
+    )
+    parser.add_argument(
+        "--no-save",
+        action="store_true",
+        help="Do not save the output to CSV files.",
+    )
+
+    args = parser.parse_args()
+
+    profit_of_syndicates(
+        syndicate_names=args.syndicates,
+        loading_bar=not args.no_loading_bar,
+        save_output=not args.no_save
+    )
+
+if __name__ == "__main__":
+    main()
