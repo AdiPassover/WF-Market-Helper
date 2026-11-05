@@ -6,6 +6,9 @@ from api.market import WarframeMarketClient
 
 class ArcanesAnalyzer:
 
+    ARCANES_PER_COLLECTION = 3
+    VOSFOR_PER_COLLECTION = 200
+
     def __init__(self, loading_bar: bool = True, save_path: Optional[str] = None, load_prices: Optional[str] = None):
         self.arcanes_dissolution = get_arcane_dissolution()
         self.arcanes_collections = get_arcane_collections()
@@ -54,7 +57,7 @@ class ArcanesAnalyzer:
         line = f"[{bar}] {percent:3d}% ({current}/{total})"
         print(f"\r\033[K{line}", end="", flush=True)
 
-    def get_plat_vosfor_ratio(self, save_path: Optional[str] = None) -> dict[str, Optional[float]]:
+    def get_plat_vosfor_ratio(self, include_collections: bool = True, save_path: Optional[str] = None) -> dict[str, Optional[float]]:
         ratio_dict = {}
         for arcane, price in self.arcane_prices.items():
             dissolution = self.arcanes_dissolution.get(arcane)
@@ -63,6 +66,11 @@ class ArcanesAnalyzer:
                 ratio_dict[arcane] = ratio
             else:
                 ratio_dict[arcane] = None
+
+        if include_collections:
+            collections_expectancy = self.get_collections_plat_expectancy()
+            for collection, expectancy in collections_expectancy.items():
+                ratio_dict[f"{collection} Collection"] = expectancy / self.VOSFOR_PER_COLLECTION
 
         if save_path:
             with open(save_path, "w", encoding="utf-8") as f:
@@ -79,7 +87,7 @@ class ArcanesAnalyzer:
                 price = self.arcane_prices.get(arcane)
                 if price is not None:
                     total_expectancy += price * probability
-            collections_expectancy[collection] = total_expectancy * 3  # Each collection gives 3 arcanes
+            collections_expectancy[collection] = total_expectancy * self.ARCANES_PER_COLLECTION
 
         if save_path:
             with open(save_path, "w", encoding="utf-8") as f:
@@ -96,7 +104,7 @@ class ArcanesAnalyzer:
                 dissolution = self.arcanes_dissolution.get(arcane)
                 if dissolution is not None:
                     total_expectancy += dissolution * probability
-            collections_expectancy[collection] = total_expectancy * 3  # Each collection gives 3 arcanes
+            collections_expectancy[collection] = total_expectancy * self.ARCANES_PER_COLLECTION
 
         if save_path:
             with open(save_path, "w", encoding="utf-8") as f:
