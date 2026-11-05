@@ -13,6 +13,8 @@ class WarframeMarketClient:
             self._instance = super(WarframeMarketClient, self).__new__(self)
             self._instance.session = requests.Session()
             self._instance.session.headers.update({
+                "User-Agent": "Warframe-Market-Tool/1.0 (personal syndicate profit analysis)",
+                "Accept": "application/json",
                 "Platform": platform,
                 "Crossplay": str(crossplay).lower(),
                 "Language": language
@@ -57,12 +59,16 @@ class WarframeMarketClient:
             time.sleep(self.RATE_LIMIT_DELAY - elapsed)
 
     def _get(self, endpoint, params=None):
-        self._rate_limit()
-
         url = f"{self.BASE_URL}{endpoint}"
-        response = self.session.get(url, params=params)
 
-        self._last_request_time = time.time()
+        for attempt in range(3):
+            self._rate_limit()
+            response = self.session.get(url, params=params)
+            self._last_request_time = time.time()
+
+            if response.status_code not in (403, 429):
+                break
+            time.sleep(2 ** (attempt + 1))  # back off instead of hammering
 
         response.raise_for_status()
 

@@ -1,0 +1,176 @@
+!Cavia:
+Melee Fortification
+ Melee Retaliation
+45%
+ Arcane Battery
+ Arcane Ice Storm
+ Melee Afflictions
+ Melee Animosity
+ Melee Exposure
+ Melee Influence
+ Melee Vortex
+ Secondary Fortifier
+ Secondary Surge
+ 50%
+ Melee Crescendo
+ Melee Duplicate
+ 5%
+!Duviri:
+ Arcane Intention
+ Magus Aggress
+ 22.5%
+ Arcane Power Ramp
+ Primary Blight
+ Primary Exhilarate
+ Primary Obstruct
+ Shotgun Vendetta
+ Akimbo Slip Shot
+ Secondary Outburst
+ 50%
+ Arcane Reaper
+ Longbow Sharpshot
+ Secondary Shiver
+ 5%
+!Eidolon:
+ Arcane Consequence
+ Arcane Ice
+ Arcane Momentum
+ Arcane Nullifier
+ Arcane Tempo
+ Arcane Warmth
+ 40%
+ Arcane Acceleration
+ Arcane Agility
+ Arcane Awakening
+ Arcane Deflection
+ Arcane Eruption
+ Arcane Guardian
+ Arcane Healing
+ Arcane Phantasm
+ Arcane Resistance
+ Arcane Strike
+ Arcane Trickery
+ Arcane Velocity
+ Arcane Victory
+ 35%
+  Arcane Aegis
+ Arcane Arachne
+ Arcane Avenger
+ Arcane Fury
+ Arcane Precision
+ Arcane Pulse
+ Arcane Rage
+ Arcane Ultimatum
+ 20%
+  Arcane Barrier
+ Arcane Energize
+ Arcane Grace
+ 5%
+!Holdfasts:
+ Arcane Blessing
+ Arcane Rise
+ Molt Augmented
+ Molt Efficiency
+ Molt Reconstruct
+ Molt Vigor
+ Fractalized Reset
+ Primary Frostbite
+ Cascadia Accuracy
+ Cascadia Empowered
+ Cascadia Flare
+ Cascadia Overcharge
+ Conjunction Voltage
+ Emergence Dissipate
+ Emergence Renewed
+ Emergence Savior
+ Eternal Eradicate
+ Eternal Logistics
+ Eternal Onslaught
+ 100%
+!Höllvania:
+Arcane Bellicose
+ Arcane Camisado
+ Arcane Crepuscular
+ Arcane Impetus
+ Arcane Truculence
+ Melee Doughty
+ Primary Crux
+ Secondary Enervate
+ 95%
+ Arcane Escapist
+ Arcane Hot Shot
+ Arcane Universal Fallout
+ 5%
+!Necralisk:
+ Arcane Double Back
+ Arcane Steadfast
+ Theorem Contagion
+ Theorem Demulcent
+ Theorem Infection
+ Primary Plated Round
+ Secondary Encumber
+ Secondary Kinship
+ Residual Boils
+ Residual Malodor
+ Residual Shock
+ Residual Viremia
+ 100%
+!Ostron:
+ Magus Husk
+ Magus Vigor
+ Virtuos Null
+ Virtuos Tempo
+ 60%
+  Exodia Triumph
+ Exodia Valor
+ Magus Cadence
+ Magus Cloud
+ Magus Replenish
+ Virtuos Fury
+ Virtuos Strike
+ 30%
+ Exodia Brave
+ Exodia Force
+ Exodia Hunt
+ Exodia Might
+ Magus Elevate
+ Magus Nourish
+ Virtuos Ghost
+ Virtuos Shadow
+ 10%
+!Solaris:
+ Magus Accelerant
+ Magus Anomaly
+ Magus Drive
+ Magus Firewall
+ Magus Overload
+ Virtuos Spike
+ Virtuos Surge
+ 60%
+  Magus Glitch
+ Magus Repair
+ Virtuos Forge
+ Virtuos Trojan
+ 30%
+ Pax Bolt
+ Pax Charge
+ Pax Seeker
+ Pax Soar
+ Magus Destruct
+ Magus Lockdown
+ Magus Melt
+ Magus Revert
+ 10%
+!Steel:
+Arcane Blade Charger
+ Arcane Bodyguard
+ Arcane Pistoleer
+ Arcane Primary Charger
+ Arcane Tanker
+ Primary Deadhead
+ Primary Dexterity
+ Primary Merciless
+ Secondary Deadhead
+ Secondary Dexterity
+ Secondary Merciless
+ 100%
