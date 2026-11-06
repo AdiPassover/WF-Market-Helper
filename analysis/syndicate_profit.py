@@ -1,5 +1,5 @@
 import csv
-from typing import Optional
+from typing import Callable, Optional
 import argparse
 
 from api.market import WarframeMarketClient
@@ -9,13 +9,17 @@ from syndicates.syndicate_parser import parse_syndicate
 def profit_from_syndicate(
     syndicate_name,
     loading_bar: bool = True,
-    save_path: Optional[str] = None
+    save_path: Optional[str] = None,
+    progress_callback: Optional[Callable[[int, int], None]] = None
 ) -> list[tuple[str, int, int]]:
     """
     Returns a list of tuples:
     (slug, standings_price, platinum_price)
 
     Sorted by standings/platinum (lower = better).
+
+    progress_callback, if given, is called with (current, total) instead of
+    printing the console loading bar.
     """
 
     client = WarframeMarketClient()
@@ -25,11 +29,12 @@ def profit_from_syndicate(
     total = len(tradable_offers)
 
     profits = []
+    report_progress = progress_callback or (_print_progress_bar if loading_bar else None)
 
     for i, offer in enumerate(tradable_offers, 1):
 
-        if loading_bar:
-            _print_progress_bar(i - 1, total)
+        if report_progress:
+            report_progress(i - 1, total)
 
         try:
             buys = client.get_buy_orders(offer.item_slug)
@@ -47,8 +52,9 @@ def profit_from_syndicate(
 
     profits.sort(key=lambda x: float(x[1]) / x[2])
 
-    if loading_bar:
-        _print_progress_bar(total, total)
+    if report_progress:
+        report_progress(total, total)
+    if report_progress is _print_progress_bar:
         print()
 
     if save_path:
